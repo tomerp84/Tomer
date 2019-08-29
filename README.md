@@ -1,6 +1,6 @@
 # WIFI reputation tracking system
 
-This is a Django-based REST API app called "networks" 
+This is a Django-based REST API app
 
 ## Usage
 
